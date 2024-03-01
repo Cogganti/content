@@ -125,6 +125,7 @@ The `<end-value-list>` is a semicolon-separated list of values. Each value can b
       attributeType="XML"
       attributeName="width"
       to="100"
+      dur="4s"
       begin="0s"
       end="8s"
       fill="freeze" />
@@ -135,6 +136,7 @@ The `<end-value-list>` is a semicolon-separated list of values. Each value can b
       attributeType="XML"
       attributeName="width"
       to="75"
+      dur="4s"
       begin="0s"
       end="6s"
       fill="freeze" />
@@ -145,6 +147,7 @@ The `<end-value-list>` is a semicolon-separated list of values. Each value can b
       attributeType="XML"
       attributeName="width"
       to="50"
+      dur="3s"
       begin="0s"
       end="4s"
       fill="freeze" />
